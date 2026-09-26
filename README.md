@@ -239,4 +239,4 @@ This repository serves as the official landing page for Gothic 2. The software i
 **Get the most recent version of Gothic 2 today!**
 
 ---
-**Last updated:** 2026-09-25 22:56:53 UTC
+**Last updated:** 2026-09-26 01:07:49 UTC
